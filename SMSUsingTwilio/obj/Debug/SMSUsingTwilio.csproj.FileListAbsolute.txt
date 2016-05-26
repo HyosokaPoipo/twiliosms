@@ -1,0 +1,11 @@
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\bin\Debug\SMSUsingTwilio.exe.config
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\bin\Debug\SMSUsingTwilio.exe
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\bin\Debug\SMSUsingTwilio.pdb
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\bin\Debug\RestSharp.dll
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\bin\Debug\Twilio.Api.dll
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\bin\Debug\RestSharp.xml
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\bin\Debug\Twilio.Api.pdb
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\bin\Debug\Twilio.Api.xml
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\obj\Debug\SMSUsingTwilio.exe
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\obj\Debug\SMSUsingTwilio.pdb
+E:\C Sharp\SourceCode\Console\SMSUsingTwilio\SMSUsingTwilio\obj\Debug\SMSUsingTwilio.csprojResolveAssemblyReference.cache
